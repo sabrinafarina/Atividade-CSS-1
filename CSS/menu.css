@@ -1,0 +1,25 @@
+navbar {
+    font-size: 14px;
+}
+
+ul {
+    padding: 0 20px;
+
+    
+}
+
+navbar li {
+    background-color: darkgrey;
+    border: 1px solid black;
+    border-radius: 4px;
+    display: block;
+    float: left;
+    padding: 5px 0;
+    text-align: center;
+    width: 150px;
+}
+
+navbar li:hover {
+    background-color: silver;
+    cursor: pointer;
+}
